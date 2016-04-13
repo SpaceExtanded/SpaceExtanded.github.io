@@ -1,0 +1,39 @@
+p {
+    background-color: #2d94a7;
+}
+
+code {
+    font-family: cursive;
+    text-transform: capitalize;
+}
+
+
+.thumbnail .caption {
+    padding: 9px;
+    color: #2d94a7;
+}
+
+
+body {
+    font-family: "oswald";
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #2d94a7;
+}
+
+
+.list-group-item {
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+    margin-bottom: -1px;
+    background-color: #2d94a7;
+    border: 1px solid transparent;
+}
+
+.carousel-inner>.item>a>img, .carousel-inner>.item>img, .img-responsive, .thumbnail a>img, .thumbnail>img {
+    display: inline-block;
+    max-width: 100%;
+    height: auto;
+}
